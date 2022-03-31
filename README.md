@@ -2,7 +2,7 @@
 FILOSOFÍA DE UN CHATBOT  
 Python. NLTK.  
   
-Lesson plan.  
-Plantilla de código del alumno.  
+Plan de la clase.  
+Plantilla del código del alumno.  
   
 ### Texto en inglés: PRO-C119-Student-Boilerplate-Code
