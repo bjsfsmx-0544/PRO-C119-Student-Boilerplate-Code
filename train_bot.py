@@ -26,7 +26,7 @@ def get_stem_words(words, ignore_words):
 
 for intent in intents['intents']:
     
-        # Agregar todas las palabras del los patrones a una lista
+        # Agregar todas las palabras de los patrones a una lista
         for pattern in intent['patterns']:            
             pattern_word = nltk.word_tokenize(pattern)            
             words.extend(pattern_word)                      
